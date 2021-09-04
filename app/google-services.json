@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781280720008",
+    "project_id": "mood-music-22e5d",
+    "storage_bucket": "mood-music-22e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781280720008:android:2d27ea32257f9548b21b3d",
+        "android_client_info": {
+          "package_name": "com.technopratik.moodmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781280720008-gapejktspofbjp1899o4qvam59c94ai2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJunWEypMxq77EqvQdETYQrdMAqoSC3bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781280720008-gapejktspofbjp1899o4qvam59c94ai2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
